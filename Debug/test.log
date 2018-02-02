@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+k:\test\test\MyForm2.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+k:\test\test\MyForm.h(217): warning C4018: '<' : signed/unsigned mismatch
+MyForm.cpp(8): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(array<System::String^>^ argv)'
+  MyForm2.cpp
+k:\test\test\MyForm2.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  test.vcxproj -> K:\test\Debug\test.exe
